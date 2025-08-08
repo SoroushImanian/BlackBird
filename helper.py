@@ -1,5 +1,5 @@
 """
-SorBlack FTP/X-UI Backup Script Installer (v2.1.0)
+SorBlack (blackbird) FTP/X-UI Backup Script Installer (v2.1.0)
 
 This script automatically fetches user configuration files from a list of URLs,
 saves them locally, and uploads them to a secure FTP (FTPS) server.
