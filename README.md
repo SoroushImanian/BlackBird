@@ -129,9 +129,11 @@ Security is a core feature of this project. Your sensitive information is protec
 We are constantly working to improve XUI-Sync. Here are some of the features planned for future releases:
 
 - [ ] **Advanced Obfuscation**: Implement advanced obfuscation for configuration files on the host to enhance security against GFW and prevent host discovery.
+- [ ] **VPS as a Destination**: Add the ability to use a Virtual Private Server (VPS) via SCP/SFTP as an alternative destination for storing configuration files, with full setup and management options.
 - [ ] **Expanded Subscription Support**: Add support for advanced subscription types (e.g., JSON, with fragment & noise parameters) for greater compatibility.
 - [ ] **Remote File Management**: Introduce a feature for real-time viewing and management of configuration files on the remote host directly from the script's menu.
 - [ ] **Enhanced Uninstallation**: Add an optional feature to the uninstall process to remotely wipe all user configuration files from the FTP host upon confirmation.
+- [ ] **High Availability Sync**: Support for multi-host and multi-VPS destinations, allowing the script to synchronize configurations to several providers simultaneously for improved uptime and resilience against network disruptions.
 - [ ] ... and many more community-driven enhancements!
 
 ---
