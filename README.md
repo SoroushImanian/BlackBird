@@ -39,7 +39,7 @@ This script is more than just a sync tool; it's a complete management suite.
 * **Atomic File Operations**: Uses temporary files for critical operations to prevent data corruption in case of interruptions.
 
 #### 💻 Interactive Management
-* **All-in-One Management Menu**: A single script (`install.sh`) provides a powerful menu for all operations.
+* **All-in-One Management Menu**: A single script (`BlackBird.sh`) provides a powerful menu for all operations.
 * **Full User Lifecycle Management**: Interactively add, delete, enable, and disable users right from the terminal.
 * **Bulk User Addition**: Add multiple users in one go by providing a simple comma-separated list.
 * **Dynamic Scheduling**: Easily change the cron schedule with a list of predefined intervals or set a custom time.
@@ -107,7 +107,7 @@ Once completed, the cron job will be set up, and the first sync will run immedia
 
 ## 🔧 Management
 
-All management tasks are handled through the installer's main menu. Simply run `./install.sh` at any time in the script's directory to access it. The menu allows you to perform all the powerful actions listed in the features section.
+All management tasks are handled through the installer's main menu. Simply run `./BlackBird.sh` at any time in the script's directory to access it. The menu allows you to perform all the powerful actions listed in the features section.
 
 ``
 
