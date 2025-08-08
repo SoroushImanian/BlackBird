@@ -4,7 +4,7 @@
   <img height="200"src="Photo\blackbird.png"/>
 </div>
 
-<h1>🐦‍⬛ Black Bird</h1>
+<h1> Black Bird ..🐦‍⬛.. </h1>
 
 <p>
   <strong>A smart, automated solution for securely syncing X-UI subscription configurations to a remote FTP/FTPS host.</strong>
