@@ -126,7 +126,7 @@ Security is a core feature of this project. Your sensitive information is protec
 
 ## 🗺️ Roadmap & Future Plans
 
-We are constantly working to improve XUI-Sync. Here are some of the features planned for future releases:
+We are constantly working to improve BlackBird. Here are some of the features planned for future releases:
 
 - [ ] **Advanced Obfuscation**: Implement advanced obfuscation for configuration files on the host to enhance security against GFW and prevent host discovery.
 - [ ] **VPS as a Destination**: Add the ability to use a Virtual Private Server (VPS) via SCP/SFTP as an alternative destination for storing configuration files, with full setup and management options.
