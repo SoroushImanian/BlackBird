@@ -138,10 +138,13 @@ We are constantly working to improve BlackBird. Here are some of the features pl
 
 ---
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/SoroushImanian/BlackKnight/blob/main/LICENSE) file for more details.
+
+---
 <div align="center">
-  <font color="silver">
-    Powered By SorBlack
-    <br>
-      SorBlack.com
-  </font>
+  <p><em>“Power belongs to those who seek it”</em></p>
+  <br/>
+  <p><a href="https://SorBlack.com" target="_blank">Powered by SorBlack</a></p>
 </div>
