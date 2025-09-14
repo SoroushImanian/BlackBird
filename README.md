@@ -140,7 +140,7 @@ We are constantly working to improve BlackBird. Here are some of the features pl
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/SoroushImanian/BlackKnight/blob/main/LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/SoroushImanian/BlackBird/blob/main/LICENSE) file for more details.
 
 ---
 <div align="center">
